@@ -1,5 +1,5 @@
 ###Profile###
 
-Name: Sato Yuki
+Name:
 
-Comment: Nagoya Laboratory
+Comment:
